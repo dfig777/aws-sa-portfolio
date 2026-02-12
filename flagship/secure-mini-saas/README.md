@@ -16,6 +16,3 @@ Built the IAM foundation for a serverless backend using role-based access and le
 - Clear separation: trust policy (who can assume) vs permissions (what can be done)
 - Least-privilege access to a single DynamoDB resource
 
-### Evidence
-- `screenshots/Flagship_IAM_LambdaExecRole_WithDDBPolicy.png`
-- `screenshots/Flagship_DDB_Table_Flagship-Users_Active.png`
