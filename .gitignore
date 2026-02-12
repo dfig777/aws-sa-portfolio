@@ -1,0 +1,11 @@
+# never commit screenshots or images from console
+*.png
+*.jpg
+*.jpeg
+
+# never commit env/secrets
+.env
+.env.*
+
+# node
+node_modules/
